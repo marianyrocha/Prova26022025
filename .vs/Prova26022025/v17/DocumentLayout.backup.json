@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|c:\\users\\2023202060013\\desktop\\prova26022025\\prova26022025\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|solutionrelative:prova26022025\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|c:\\users\\2023202060013\\desktop\\prova26022025\\prova26022025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|solutionrelative:prova26022025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|c:\\users\\2023202060013\\desktop\\prova26022025\\prova26022025\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|solutionrelative:prova26022025\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|c:\\users\\2023202060013\\desktop\\prova26022025\\prova26022025\\carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|solutionrelative:prova26022025\\carros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|c:\\users\\2023202060013\\desktop\\prova26022025\\prova26022025\\caminhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|solutionrelative:prova26022025\\caminhoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|c:\\users\\2023202060013\\desktop\\prova26022025\\prova26022025\\motos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F2333B-3843-469E-8E6E-849B1140470D}|Prova26022025\\Prova26022025.csproj|solutionrelative:prova26022025\\motos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Prova26022025\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Veiculo.cs",
+              "RelativeToolTip": "Prova26022025\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:23:16.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carros.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Carros.cs",
+              "RelativeDocumentMoniker": "Prova26022025\\Carros.cs",
+              "ToolTip": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Carros.cs",
+              "RelativeToolTip": "Prova26022025\\Carros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T00:59:17.314Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Motos.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Motos.cs",
+              "RelativeDocumentMoniker": "Prova26022025\\Motos.cs",
+              "ToolTip": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Motos.cs",
+              "RelativeToolTip": "Prova26022025\\Motos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:27:36.888Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Caminhoes.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Caminhoes.cs",
+              "RelativeDocumentMoniker": "Prova26022025\\Caminhoes.cs",
+              "ToolTip": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Caminhoes.cs",
+              "RelativeToolTip": "Prova26022025\\Caminhoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:29:38.572Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluguel.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Aluguel.cs",
+              "RelativeDocumentMoniker": "Prova26022025\\Aluguel.cs",
+              "ToolTip": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Aluguel.cs",
+              "RelativeToolTip": "Prova26022025\\Aluguel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:53:18.802Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Program.cs",
+              "RelativeDocumentMoniker": "Prova26022025\\Program.cs",
+              "ToolTip": "C:\\Users\\2023202060013\\Desktop\\Prova26022025\\Prova26022025\\Program.cs",
+              "RelativeToolTip": "Prova26022025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T23:14:49.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
